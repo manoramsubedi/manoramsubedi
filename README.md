@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Manoram</h1>
-<h3 align="center">A passionate Django Developer and Data Science enthusiast from Nepal.</h3>
+<h1 align="center">Hello 👋, I'm Manoram Subedi</h1>
+<h3 align="center">A passionate Python/Django Developer and Data Science enthusiast from Nepal.</h3>
 
 - 🌱 I’m currently learning **REST Framework**
 
 - 👯 I’m looking to collaborate on **Django Projects**
 
-- 💬 Ask me about **Django, Data Analytics, Data Science**
+- 💬 Ask me about **Python, Django and Data Science**
 
 - 📫 How to reach me **manoramsubedi7@gmil.com**
 
